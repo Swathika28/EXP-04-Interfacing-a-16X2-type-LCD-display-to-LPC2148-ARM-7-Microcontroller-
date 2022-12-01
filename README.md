@@ -1,10 +1,10 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name :SWATHIKA G
+Name :Swathika G
 
 Roll no :212221230113
 
-Date of experiment :
+Date of experiment : 30/09/2022
 
  
 
